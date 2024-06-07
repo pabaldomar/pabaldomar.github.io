@@ -1,7 +1,8 @@
 title: <p align="center">Pat BALDOMAR</p>
 logo: /assets/img/Paterno.jpg
 description: 
-  <p align="center">
+  <div style="text-align: center;">
+  <p>
   <a href="/another-page.html"><img alt="Static Badge" src="https://img.shields.io/badge/Entry%20Level%20Data%20Analyst-Data%20Science-green"></a>  
   <a href="https://in.linkedin.com/in/patab"><img alt="Static Badge" src="https://img.shields.io/badge/BIM%20CAD%20Designer-LinkedIn-blue"></a>
   <br>
@@ -13,6 +14,7 @@ description:
   <hr>
   Self-driven individual, always confident and eager to learn new things. Independent yet collaborative in exchanging idea towards a common goal. Ability to connect effectively with other individuals. Creative and innovative with great analytical thinking.
   </p>
+  </div>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

@@ -8,7 +8,7 @@ layout: default
 
 Description of Sample 0001
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](./another-page.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pabaldomar/dataq/blob/main/notebooks/Pizza-Machine-Learning.ipynb)
 
 There should be whitespace between paragraphs.
 

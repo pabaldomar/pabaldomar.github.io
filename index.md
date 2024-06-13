@@ -2,7 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Data Science
+
+## Sample 0001
+
+Description of Sample 0001
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](./another-page.html)
 
